@@ -1,0 +1,102 @@
+h1 {
+    text-shadow: 1px 1px 2px;
+    color: rgb(255, 255, 255);
+    font-family: "Lexend", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+fieldset {
+    border: 3ch 3ch 3ch 3ch;
+    border-color: white;
+    /*display: inline-flexbox;*/
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    font-family: "Lexend", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+}
+
+legend {
+    text-align: center;
+    background-color: blueviolet;
+    color: powderblue;
+    border-radius: 10px;
+    border: 3px white groove;
+    padding: 5px;
+}
+
+body {
+    /*background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg");*/
+    background-color: #000000;
+}
+
+#ter {
+    border-radius: 100px;
+    background-color: black;
+}
+
+#wer {
+    height: 50px;
+    border-radius: 50%;
+}
+
+#sed {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+
+#sed:hover {
+    background-color: teal;
+    text-decoration: none;
+}
+
+.coverimg {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.fa {
+    text-decoration: underline;
+}
+
+* {
+    color: white;
+}
+
+.RNG {
+    margin-top: 20px;
+}
+
+.Websites {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.con {
+    width: 100vw;
+    height: 70vh;
+    padding-top: 100px;
+    padding-right: 100px;
+    border: 3pt white solid;
+}
+
+.faf {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.s {
+    padding-bottom: 10px;
+}
